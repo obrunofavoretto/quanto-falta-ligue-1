@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-10-31T19:52:15.594297+00:00",
+  "fetchedAt": "2026-10-31T23:17:34.160822+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -148,14 +148,14 @@
       "sourceId": "7868"
     },
     {
-      "id": 1779709413,
-      "name": "Le Mans",
-      "points": 7,
-      "played": 8,
-      "goalsFor": 11,
+      "id": 2738976337,
+      "name": "Troyes",
+      "points": 8,
+      "played": 9,
+      "goalsFor": 7,
       "goalsAgainst": 16,
       "position": 15,
-      "sourceId": "2697"
+      "sourceId": "170"
     },
     {
       "id": 726928465,
@@ -168,14 +168,14 @@
       "sourceId": "180"
     },
     {
-      "id": 2738976337,
-      "name": "Troyes",
-      "points": 5,
-      "played": 8,
-      "goalsFor": 5,
-      "goalsAgainst": 16,
+      "id": 1779709413,
+      "name": "Le Mans",
+      "points": 7,
+      "played": 9,
+      "goalsFor": 11,
+      "goalsAgainst": 18,
       "position": 17,
-      "sourceId": "170"
+      "sourceId": "2697"
     },
     {
       "id": 3381639423,

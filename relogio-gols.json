@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-10-31T19:52:15.594297+00:00",
+  "fetchedAt": "2026-10-31T23:17:34.160822+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/fra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -101,10 +101,10 @@
       "completed": 8
     },
     {
-      "id": 1779709413,
-      "name": "Le Mans",
-      "sourceId": "2697",
-      "completed": 8
+      "id": 2738976337,
+      "name": "Troyes",
+      "sourceId": "170",
+      "completed": 9
     },
     {
       "id": 726928465,
@@ -113,10 +113,10 @@
       "completed": 8
     },
     {
-      "id": 2738976337,
-      "name": "Troyes",
-      "sourceId": "170",
-      "completed": 8
+      "id": 1779709413,
+      "name": "Le Mans",
+      "sourceId": "2697",
+      "completed": 9
     },
     {
       "id": 3381639423,
@@ -2159,8 +2159,30 @@
       ],
       "firstScorer": 3843196180,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401876413",
+      "date": "2026-10-31T19:45Z",
+      "home": 2738976337,
+      "away": 1779709413,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2738976337,
+          "minute": "33",
+          "bin": 2
+        },
+        {
+          "team": 2738976337,
+          "minute": "71",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2738976337,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 75,
+  "completedMatches": 76,
   "excluded": []
 }
