@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-01T13:09:50.047049+00:00",
+  "fetchedAt": "2026-11-01T18:51:33.192322+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -28,44 +28,44 @@
       "sourceId": "166"
     },
     {
+      "id": 2402441422,
+      "name": "Lyon",
+      "points": 17,
+      "played": 9,
+      "goalsFor": 15,
+      "goalsAgainst": 7,
+      "position": 3,
+      "sourceId": "167"
+    },
+    {
+      "id": 2559659102,
+      "name": "Paris FC",
+      "points": 17,
+      "played": 9,
+      "goalsFor": 16,
+      "goalsAgainst": 10,
+      "position": 4,
+      "sourceId": "6851"
+    },
+    {
       "id": 2966299739,
       "name": "Rennes",
       "points": 16,
       "played": 9,
       "goalsFor": 20,
       "goalsAgainst": 19,
-      "position": 3,
+      "position": 5,
       "sourceId": "169"
     },
     {
       "id": 3567689212,
       "name": "Monaco",
       "points": 15,
-      "played": 8,
-      "goalsFor": 11,
-      "goalsAgainst": 7,
-      "position": 4,
-      "sourceId": "174"
-    },
-    {
-      "id": 2402441422,
-      "name": "Lyon",
-      "points": 14,
-      "played": 8,
-      "goalsFor": 13,
-      "goalsAgainst": 7,
-      "position": 5,
-      "sourceId": "167"
-    },
-    {
-      "id": 2559659102,
-      "name": "Paris FC",
-      "points": 14,
-      "played": 8,
-      "goalsFor": 13,
-      "goalsAgainst": 9,
+      "played": 9,
+      "goalsFor": 12,
+      "goalsAgainst": 10,
       "position": 6,
-      "sourceId": "6851"
+      "sourceId": "174"
     },
     {
       "id": 1752765973,
@@ -118,13 +118,23 @@
       "sourceId": "179"
     },
     {
+      "id": 726928465,
+      "name": "Strasbourg",
+      "points": 10,
+      "played": 9,
+      "goalsFor": 17,
+      "goalsAgainst": 19,
+      "position": 12,
+      "sourceId": "180"
+    },
+    {
       "id": 1579487238,
       "name": "Auxerre",
       "points": 10,
-      "played": 8,
-      "goalsFor": 12,
-      "goalsAgainst": 18,
-      "position": 12,
+      "played": 9,
+      "goalsFor": 13,
+      "goalsAgainst": 23,
+      "position": 13,
       "sourceId": "172"
     },
     {
@@ -134,17 +144,17 @@
       "played": 8,
       "goalsFor": 14,
       "goalsAgainst": 12,
-      "position": 13,
+      "position": 14,
       "sourceId": "6997"
     },
     {
       "id": 1036545329,
       "name": "Angers",
       "points": 8,
-      "played": 8,
+      "played": 9,
       "goalsFor": 9,
-      "goalsAgainst": 15,
-      "position": 14,
+      "goalsAgainst": 17,
+      "position": 15,
       "sourceId": "7868"
     },
     {
@@ -154,18 +164,8 @@
       "played": 9,
       "goalsFor": 7,
       "goalsAgainst": 16,
-      "position": 15,
-      "sourceId": "170"
-    },
-    {
-      "id": 726928465,
-      "name": "Strasbourg",
-      "points": 7,
-      "played": 8,
-      "goalsFor": 12,
-      "goalsAgainst": 18,
       "position": 16,
-      "sourceId": "180"
+      "sourceId": "170"
     },
     {
       "id": 1779709413,

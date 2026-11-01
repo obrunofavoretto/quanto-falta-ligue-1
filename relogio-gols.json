@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-01T13:09:50.047049+00:00",
+  "fetchedAt": "2026-11-01T18:51:33.192322+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/fra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -29,6 +29,18 @@
       "completed": 9
     },
     {
+      "id": 2402441422,
+      "name": "Lyon",
+      "sourceId": "167",
+      "completed": 9
+    },
+    {
+      "id": 2559659102,
+      "name": "Paris FC",
+      "sourceId": "6851",
+      "completed": 9
+    },
+    {
       "id": 2966299739,
       "name": "Rennes",
       "sourceId": "169",
@@ -38,19 +50,7 @@
       "id": 3567689212,
       "name": "Monaco",
       "sourceId": "174",
-      "completed": 8
-    },
-    {
-      "id": 2402441422,
-      "name": "Lyon",
-      "sourceId": "167",
-      "completed": 8
-    },
-    {
-      "id": 2559659102,
-      "name": "Paris FC",
-      "sourceId": "6851",
-      "completed": 8
+      "completed": 9
     },
     {
       "id": 1752765973,
@@ -83,10 +83,16 @@
       "completed": 8
     },
     {
+      "id": 726928465,
+      "name": "Strasbourg",
+      "sourceId": "180",
+      "completed": 9
+    },
+    {
       "id": 1579487238,
       "name": "Auxerre",
       "sourceId": "172",
-      "completed": 8
+      "completed": 9
     },
     {
       "id": 2042223161,
@@ -98,19 +104,13 @@
       "id": 1036545329,
       "name": "Angers",
       "sourceId": "7868",
-      "completed": 8
+      "completed": 9
     },
     {
       "id": 2738976337,
       "name": "Troyes",
       "sourceId": "170",
       "completed": 9
-    },
-    {
-      "id": 726928465,
-      "name": "Strasbourg",
-      "sourceId": "180",
-      "completed": 8
     },
     {
       "id": 1779709413,
@@ -2181,8 +2181,104 @@
       ],
       "firstScorer": 2738976337,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401876414",
+      "date": "2026-11-01T14:00Z",
+      "home": 726928465,
+      "away": 1579487238,
+      "hg": 5,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 726928465,
+          "minute": "41",
+          "bin": 2
+        },
+        {
+          "team": 726928465,
+          "minute": "55",
+          "bin": 4
+        },
+        {
+          "team": 726928465,
+          "minute": "62",
+          "bin": 5
+        },
+        {
+          "team": 1579487238,
+          "minute": "68",
+          "bin": 5
+        },
+        {
+          "team": 726928465,
+          "minute": "77",
+          "bin": 6
+        },
+        {
+          "team": 726928465,
+          "minute": "85",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 726928465,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401876415",
+      "date": "2026-11-01T16:15Z",
+      "home": 2559659102,
+      "away": 3567689212,
+      "hg": 3,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2559659102,
+          "minute": "38",
+          "bin": 2
+        },
+        {
+          "team": 2559659102,
+          "minute": "44",
+          "bin": 2
+        },
+        {
+          "team": 3567689212,
+          "minute": "65",
+          "bin": 5
+        },
+        {
+          "team": 2559659102,
+          "minute": "74",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2559659102,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401876418",
+      "date": "2026-11-01T16:15Z",
+      "home": 2402441422,
+      "away": 1036545329,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2402441422,
+          "minute": "38",
+          "bin": 2
+        },
+        {
+          "team": 2402441422,
+          "minute": "86",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 2402441422,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 76,
+  "completedMatches": 79,
   "excluded": []
 }
