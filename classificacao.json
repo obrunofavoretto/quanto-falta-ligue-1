@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-01T18:51:33.192322+00:00",
+  "fetchedAt": "2026-11-01T22:42:13.327975+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -58,13 +58,23 @@
       "sourceId": "169"
     },
     {
+      "id": 500750372,
+      "name": "Marseille",
+      "points": 15,
+      "played": 9,
+      "goalsFor": 20,
+      "goalsAgainst": 13,
+      "position": 6,
+      "sourceId": "176"
+    },
+    {
       "id": 3567689212,
       "name": "Monaco",
       "points": 15,
       "played": 9,
       "goalsFor": 12,
       "goalsAgainst": 10,
-      "position": 6,
+      "position": 7,
       "sourceId": "174"
     },
     {
@@ -74,7 +84,7 @@
       "played": 9,
       "goalsFor": 13,
       "goalsAgainst": 12,
-      "position": 7,
+      "position": 8,
       "sourceId": "2502"
     },
     {
@@ -84,18 +94,8 @@
       "played": 9,
       "goalsFor": 16,
       "goalsAgainst": 13,
-      "position": 8,
-      "sourceId": "175"
-    },
-    {
-      "id": 500750372,
-      "name": "Marseille",
-      "points": 12,
-      "played": 8,
-      "goalsFor": 18,
-      "goalsAgainst": 13,
       "position": 9,
-      "sourceId": "176"
+      "sourceId": "175"
     },
     {
       "id": 1174966874,
@@ -111,9 +111,9 @@
       "id": 82960301,
       "name": "Toulouse",
       "points": 10,
-      "played": 8,
+      "played": 9,
       "goalsFor": 12,
-      "goalsAgainst": 11,
+      "goalsAgainst": 13,
       "position": 11,
       "sourceId": "179"
     },

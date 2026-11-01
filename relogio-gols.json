@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-01T18:51:33.192322+00:00",
+  "fetchedAt": "2026-11-01T22:42:13.327975+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/fra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -47,6 +47,12 @@
       "completed": 9
     },
     {
+      "id": 500750372,
+      "name": "Marseille",
+      "sourceId": "176",
+      "completed": 9
+    },
+    {
       "id": 3567689212,
       "name": "Monaco",
       "sourceId": "174",
@@ -65,12 +71,6 @@
       "completed": 9
     },
     {
-      "id": 500750372,
-      "name": "Marseille",
-      "sourceId": "176",
-      "completed": 8
-    },
-    {
       "id": 1174966874,
       "name": "Lorient",
       "sourceId": "273",
@@ -80,7 +80,7 @@
       "id": 82960301,
       "name": "Toulouse",
       "sourceId": "179",
-      "completed": 8
+      "completed": 9
     },
     {
       "id": 726928465,
@@ -2277,8 +2277,30 @@
       ],
       "firstScorer": 2402441422,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401876417",
+      "date": "2026-11-01T19:45Z",
+      "home": 500750372,
+      "away": 82960301,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 500750372,
+          "minute": "1",
+          "bin": 0
+        },
+        {
+          "team": 500750372,
+          "minute": "25",
+          "bin": 1
+        }
+      ],
+      "firstScorer": 500750372,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 79,
+  "completedMatches": 80,
   "excluded": []
 }
