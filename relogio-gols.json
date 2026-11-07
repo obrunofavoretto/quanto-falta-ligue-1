@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-07T18:38:56.436996+00:00",
+  "fetchedAt": "2026-11-07T22:38:53.929415+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/fra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -20,7 +20,13 @@
       "id": 1119230110,
       "name": "Paris Saint-Germain",
       "sourceId": "160",
-      "completed": 9
+      "completed": 10
+    },
+    {
+      "id": 2559659102,
+      "name": "Paris FC",
+      "sourceId": "6851",
+      "completed": 10
     },
     {
       "id": 3843196180,
@@ -32,12 +38,6 @@
       "id": 2402441422,
       "name": "Lyon",
       "sourceId": "167",
-      "completed": 9
-    },
-    {
-      "id": 2559659102,
-      "name": "Paris FC",
-      "sourceId": "6851",
       "completed": 9
     },
     {
@@ -98,7 +98,7 @@
       "id": 1579487238,
       "name": "Auxerre",
       "sourceId": "172",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 1036545329,
@@ -110,7 +110,7 @@
       "id": 2738976337,
       "name": "Troyes",
       "sourceId": "170",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 1779709413,
@@ -2353,8 +2353,42 @@
       ],
       "firstScorer": 82960301,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401876411",
+      "date": "2026-11-07T18:00Z",
+      "home": 1579487238,
+      "away": 2559659102,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2559659102,
+          "minute": "63",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2559659102,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401876407",
+      "date": "2026-11-07T20:05Z",
+      "home": 1119230110,
+      "away": 2738976337,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 1119230110,
+          "minute": "39",
+          "bin": 2
+        }
+      ],
+      "firstScorer": 1119230110,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 82,
+  "completedMatches": 84,
   "excluded": []
 }

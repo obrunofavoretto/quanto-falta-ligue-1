@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-07T18:38:56.436996+00:00",
+  "fetchedAt": "2026-11-07T22:38:53.929415+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -10,12 +10,22 @@
     {
       "id": 1119230110,
       "name": "Paris Saint-Germain",
-      "points": 20,
-      "played": 9,
-      "goalsFor": 21,
+      "points": 23,
+      "played": 10,
+      "goalsFor": 22,
       "goalsAgainst": 10,
       "position": 1,
       "sourceId": "160"
+    },
+    {
+      "id": 2559659102,
+      "name": "Paris FC",
+      "points": 20,
+      "played": 10,
+      "goalsFor": 17,
+      "goalsAgainst": 10,
+      "position": 2,
+      "sourceId": "6851"
     },
     {
       "id": 3843196180,
@@ -24,7 +34,7 @@
       "played": 9,
       "goalsFor": 12,
       "goalsAgainst": 6,
-      "position": 2,
+      "position": 3,
       "sourceId": "166"
     },
     {
@@ -34,18 +44,8 @@
       "played": 9,
       "goalsFor": 15,
       "goalsAgainst": 7,
-      "position": 3,
-      "sourceId": "167"
-    },
-    {
-      "id": 2559659102,
-      "name": "Paris FC",
-      "points": 17,
-      "played": 9,
-      "goalsFor": 16,
-      "goalsAgainst": 10,
       "position": 4,
-      "sourceId": "6851"
+      "sourceId": "167"
     },
     {
       "id": 2966299739,
@@ -141,9 +141,9 @@
       "id": 1579487238,
       "name": "Auxerre",
       "points": 10,
-      "played": 9,
+      "played": 10,
       "goalsFor": 13,
-      "goalsAgainst": 23,
+      "goalsAgainst": 24,
       "position": 14,
       "sourceId": "172"
     },
@@ -161,9 +161,9 @@
       "id": 2738976337,
       "name": "Troyes",
       "points": 8,
-      "played": 9,
+      "played": 10,
       "goalsFor": 7,
-      "goalsAgainst": 16,
+      "goalsAgainst": 17,
       "position": 16,
       "sourceId": "170"
     },

@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-07T18:38:56.436996+00:00",
+  "fetchedAt": "2026-11-07T22:38:53.929415+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -9,12 +9,25 @@
     {
       "id": 1119230110,
       "name": "Paris Saint-Germain",
-      "points": 20,
-      "played": 9,
-      "goalsFor": 21,
+      "points": 23,
+      "played": 10,
+      "goalsFor": 22,
       "goalsAgainst": 10,
       "position": 1,
       "recent": [
+        {
+          "id": "401876407",
+          "date": 1794081900000,
+          "home": "Paris Saint-Germain",
+          "away": "Troyes",
+          "hg": 1,
+          "ag": 0,
+          "points": 3,
+          "opponent": "Troyes",
+          "venue": "Casa",
+          "score": "1–0",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401876421",
           "date": 1793383200000,
@@ -133,9 +146,153 @@
           "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401876421",
-      "lastMatchDate": 1793383200000,
+      "lastMatchId": "401876407",
+      "lastMatchDate": 1794081900000,
       "sourceId": "160"
+    },
+    {
+      "id": 2559659102,
+      "name": "Paris FC",
+      "points": 20,
+      "played": 10,
+      "goalsFor": 17,
+      "goalsAgainst": 10,
+      "position": 2,
+      "recent": [
+        {
+          "id": "401876411",
+          "date": 1794074400000,
+          "home": "Auxerre",
+          "away": "Paris FC",
+          "hg": 0,
+          "ag": 1,
+          "points": 3,
+          "opponent": "Auxerre",
+          "venue": "Fora",
+          "score": "1–0",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401876415",
+          "date": 1793549700000,
+          "home": "Paris FC",
+          "away": "Monaco",
+          "hg": 3,
+          "ag": 1,
+          "points": 3,
+          "opponent": "Monaco",
+          "venue": "Casa",
+          "score": "3–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401876427",
+          "date": 1792867500000,
+          "home": "Lens",
+          "away": "Paris FC",
+          "hg": 2,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Lens",
+          "venue": "Fora",
+          "score": "1–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401876433",
+          "date": 1792336500000,
+          "home": "Paris FC",
+          "away": "Rennes",
+          "hg": 4,
+          "ag": 3,
+          "points": 3,
+          "opponent": "Rennes",
+          "venue": "Casa",
+          "score": "4–3",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401876445",
+          "date": 1791657900000,
+          "home": "Lorient",
+          "away": "Paris FC",
+          "hg": 1,
+          "ag": 0,
+          "points": 0,
+          "opponent": "Lorient",
+          "venue": "Fora",
+          "score": "0–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401876451",
+          "date": 1789830900000,
+          "home": "Paris FC",
+          "away": "Strasbourg",
+          "hg": 2,
+          "ag": 1,
+          "points": 3,
+          "opponent": "Strasbourg",
+          "venue": "Casa",
+          "score": "2–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401876460",
+          "date": 1789238700000,
+          "home": "Paris FC",
+          "away": "Lyon",
+          "hg": 0,
+          "ag": 0,
+          "points": 1,
+          "opponent": "Lyon",
+          "venue": "Casa",
+          "score": "0–0",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401876471",
+          "date": 1788720300000,
+          "home": "Marseille",
+          "away": "Paris FC",
+          "hg": 2,
+          "ag": 3,
+          "points": 3,
+          "opponent": "Marseille",
+          "venue": "Fora",
+          "score": "3–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401876479",
+          "date": 1788094800000,
+          "home": "Paris FC",
+          "away": "Nice",
+          "hg": 3,
+          "ag": 0,
+          "points": 3,
+          "opponent": "Nice",
+          "venue": "Casa",
+          "score": "3–0",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401876485",
+          "date": 1787424300000,
+          "home": "Troyes",
+          "away": "Paris FC",
+          "hg": 0,
+          "ag": 0,
+          "points": 1,
+          "opponent": "Troyes",
+          "venue": "Fora",
+          "score": "0–0",
+          "round": "Rodada a confirmar"
+        }
+      ],
+      "lastMatchId": "401876411",
+      "lastMatchDate": 1794074400000,
+      "sourceId": "6851"
     },
     {
       "id": 3843196180,
@@ -144,7 +301,7 @@
       "played": 9,
       "goalsFor": 12,
       "goalsAgainst": 6,
-      "position": 2,
+      "position": 3,
       "recent": [
         {
           "id": "401876420",
@@ -275,7 +432,7 @@
       "played": 9,
       "goalsFor": 15,
       "goalsAgainst": 7,
-      "position": 3,
+      "position": 4,
       "recent": [
         {
           "id": "401876418",
@@ -398,137 +555,6 @@
       "lastMatchId": "401876418",
       "lastMatchDate": 1793549700000,
       "sourceId": "167"
-    },
-    {
-      "id": 2559659102,
-      "name": "Paris FC",
-      "points": 17,
-      "played": 9,
-      "goalsFor": 16,
-      "goalsAgainst": 10,
-      "position": 4,
-      "recent": [
-        {
-          "id": "401876415",
-          "date": 1793549700000,
-          "home": "Paris FC",
-          "away": "Monaco",
-          "hg": 3,
-          "ag": 1,
-          "points": 3,
-          "opponent": "Monaco",
-          "venue": "Casa",
-          "score": "3–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401876427",
-          "date": 1792867500000,
-          "home": "Lens",
-          "away": "Paris FC",
-          "hg": 2,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Lens",
-          "venue": "Fora",
-          "score": "1–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401876433",
-          "date": 1792336500000,
-          "home": "Paris FC",
-          "away": "Rennes",
-          "hg": 4,
-          "ag": 3,
-          "points": 3,
-          "opponent": "Rennes",
-          "venue": "Casa",
-          "score": "4–3",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401876445",
-          "date": 1791657900000,
-          "home": "Lorient",
-          "away": "Paris FC",
-          "hg": 1,
-          "ag": 0,
-          "points": 0,
-          "opponent": "Lorient",
-          "venue": "Fora",
-          "score": "0–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401876451",
-          "date": 1789830900000,
-          "home": "Paris FC",
-          "away": "Strasbourg",
-          "hg": 2,
-          "ag": 1,
-          "points": 3,
-          "opponent": "Strasbourg",
-          "venue": "Casa",
-          "score": "2–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401876460",
-          "date": 1789238700000,
-          "home": "Paris FC",
-          "away": "Lyon",
-          "hg": 0,
-          "ag": 0,
-          "points": 1,
-          "opponent": "Lyon",
-          "venue": "Casa",
-          "score": "0–0",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401876471",
-          "date": 1788720300000,
-          "home": "Marseille",
-          "away": "Paris FC",
-          "hg": 2,
-          "ag": 3,
-          "points": 3,
-          "opponent": "Marseille",
-          "venue": "Fora",
-          "score": "3–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401876479",
-          "date": 1788094800000,
-          "home": "Paris FC",
-          "away": "Nice",
-          "hg": 3,
-          "ag": 0,
-          "points": 3,
-          "opponent": "Nice",
-          "venue": "Casa",
-          "score": "3–0",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401876485",
-          "date": 1787424300000,
-          "home": "Troyes",
-          "away": "Paris FC",
-          "hg": 0,
-          "ag": 0,
-          "points": 1,
-          "opponent": "Troyes",
-          "venue": "Fora",
-          "score": "0–0",
-          "round": "Rodada a confirmar"
-        }
-      ],
-      "lastMatchId": "401876415",
-      "lastMatchDate": 1793549700000,
-      "sourceId": "6851"
     },
     {
       "id": 2966299739,
@@ -1739,11 +1765,24 @@
       "id": 1579487238,
       "name": "Auxerre",
       "points": 10,
-      "played": 9,
+      "played": 10,
       "goalsFor": 13,
-      "goalsAgainst": 23,
+      "goalsAgainst": 24,
       "position": 14,
       "recent": [
+        {
+          "id": "401876411",
+          "date": 1794074400000,
+          "home": "Auxerre",
+          "away": "Paris FC",
+          "hg": 0,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Paris FC",
+          "venue": "Casa",
+          "score": "0–1",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401876414",
           "date": 1793541600000,
@@ -1862,8 +1901,8 @@
           "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401876414",
-      "lastMatchDate": 1793541600000,
+      "lastMatchId": "401876411",
+      "lastMatchDate": 1794074400000,
       "sourceId": "172"
     },
     {
@@ -2001,11 +2040,24 @@
       "id": 2738976337,
       "name": "Troyes",
       "points": 8,
-      "played": 9,
+      "played": 10,
       "goalsFor": 7,
-      "goalsAgainst": 16,
+      "goalsAgainst": 17,
       "position": 16,
       "recent": [
+        {
+          "id": "401876407",
+          "date": 1794081900000,
+          "home": "Paris Saint-Germain",
+          "away": "Troyes",
+          "hg": 1,
+          "ag": 0,
+          "points": 0,
+          "opponent": "Paris Saint-Germain",
+          "venue": "Fora",
+          "score": "0–1",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401876413",
           "date": 1793475900000,
@@ -2124,8 +2176,8 @@
           "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401876413",
-      "lastMatchDate": 1793475900000,
+      "lastMatchId": "401876407",
+      "lastMatchDate": 1794081900000,
       "sourceId": "170"
     },
     {
