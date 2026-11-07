@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-06T20:48:45.847079+00:00",
+  "fetchedAt": "2026-11-07T00:50:52.316334+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -98,13 +98,23 @@
       "sourceId": "175"
     },
     {
+      "id": 82960301,
+      "name": "Toulouse",
+      "points": 13,
+      "played": 10,
+      "goalsFor": 15,
+      "goalsAgainst": 14,
+      "position": 10,
+      "sourceId": "179"
+    },
+    {
       "id": 2042223161,
       "name": "Brest",
       "points": 12,
       "played": 9,
       "goalsFor": 16,
       "goalsAgainst": 12,
-      "position": 10,
+      "position": 11,
       "sourceId": "6997"
     },
     {
@@ -114,26 +124,16 @@
       "played": 9,
       "goalsFor": 7,
       "goalsAgainst": 8,
-      "position": 11,
-      "sourceId": "273"
-    },
-    {
-      "id": 82960301,
-      "name": "Toulouse",
-      "points": 10,
-      "played": 9,
-      "goalsFor": 12,
-      "goalsAgainst": 13,
       "position": 12,
-      "sourceId": "179"
+      "sourceId": "273"
     },
     {
       "id": 726928465,
       "name": "Strasbourg",
       "points": 10,
-      "played": 9,
-      "goalsFor": 17,
-      "goalsAgainst": 19,
+      "played": 10,
+      "goalsFor": 18,
+      "goalsAgainst": 22,
       "position": 13,
       "sourceId": "180"
     },
