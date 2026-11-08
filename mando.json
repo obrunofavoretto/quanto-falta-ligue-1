@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-08T10:08:34.482761+00:00",
+  "fetchedAt": "2026-11-08T16:59:45.060072+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -28,6 +28,28 @@
       }
     },
     {
+      "id": 3843196180,
+      "name": "Lille",
+      "home": {
+        "played": 5,
+        "points": 11,
+        "wins": 3,
+        "draws": 2,
+        "losses": 0,
+        "goalsFor": 7,
+        "goalsAgainst": 3
+      },
+      "away": {
+        "played": 5,
+        "points": 10,
+        "wins": 3,
+        "draws": 1,
+        "losses": 1,
+        "goalsFor": 7,
+        "goalsAgainst": 4
+      }
+    },
+    {
       "id": 2559659102,
       "name": "Paris FC",
       "home": {
@@ -47,28 +69,6 @@
         "losses": 2,
         "goalsFor": 5,
         "goalsAgainst": 5
-      }
-    },
-    {
-      "id": 3843196180,
-      "name": "Lille",
-      "home": {
-        "played": 5,
-        "points": 11,
-        "wins": 3,
-        "draws": 2,
-        "losses": 0,
-        "goalsFor": 7,
-        "goalsAgainst": 3
-      },
-      "away": {
-        "played": 4,
-        "points": 7,
-        "wins": 2,
-        "draws": 1,
-        "losses": 1,
-        "goalsFor": 5,
-        "goalsAgainst": 3
       }
     },
     {
@@ -97,13 +97,13 @@
       "id": 2966299739,
       "name": "Rennes",
       "home": {
-        "played": 5,
+        "played": 6,
         "points": 13,
         "wins": 4,
         "draws": 1,
-        "losses": 0,
-        "goalsFor": 13,
-        "goalsAgainst": 5
+        "losses": 1,
+        "goalsFor": 14,
+        "goalsAgainst": 7
       },
       "away": {
         "played": 4,

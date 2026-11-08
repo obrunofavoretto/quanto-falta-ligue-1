@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-08T10:08:34.482761+00:00",
+  "fetchedAt": "2026-11-08T16:59:45.060072+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -18,24 +18,24 @@
       "sourceId": "160"
     },
     {
+      "id": 3843196180,
+      "name": "Lille",
+      "points": 21,
+      "played": 10,
+      "goalsFor": 14,
+      "goalsAgainst": 7,
+      "position": 2,
+      "sourceId": "166"
+    },
+    {
       "id": 2559659102,
       "name": "Paris FC",
       "points": 20,
       "played": 10,
       "goalsFor": 17,
       "goalsAgainst": 10,
-      "position": 2,
-      "sourceId": "6851"
-    },
-    {
-      "id": 3843196180,
-      "name": "Lille",
-      "points": 18,
-      "played": 9,
-      "goalsFor": 12,
-      "goalsAgainst": 6,
       "position": 3,
-      "sourceId": "166"
+      "sourceId": "6851"
     },
     {
       "id": 2402441422,
@@ -51,9 +51,9 @@
       "id": 2966299739,
       "name": "Rennes",
       "points": 16,
-      "played": 9,
-      "goalsFor": 20,
-      "goalsAgainst": 19,
+      "played": 10,
+      "goalsFor": 21,
+      "goalsAgainst": 21,
       "position": 5,
       "sourceId": "169"
     },

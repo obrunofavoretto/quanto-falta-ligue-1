@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-08T10:08:34.482761+00:00",
+  "fetchedAt": "2026-11-08T16:59:45.060072+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/fra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -23,16 +23,16 @@
       "completed": 10
     },
     {
+      "id": 3843196180,
+      "name": "Lille",
+      "sourceId": "166",
+      "completed": 10
+    },
+    {
       "id": 2559659102,
       "name": "Paris FC",
       "sourceId": "6851",
       "completed": 10
-    },
-    {
-      "id": 3843196180,
-      "name": "Lille",
-      "sourceId": "166",
-      "completed": 9
     },
     {
       "id": 2402441422,
@@ -44,7 +44,7 @@
       "id": 2966299739,
       "name": "Rennes",
       "sourceId": "169",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 500750372,
@@ -2387,8 +2387,35 @@
       ],
       "firstScorer": 1119230110,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401876406",
+      "date": "2026-11-08T14:00Z",
+      "home": 2966299739,
+      "away": 3843196180,
+      "hg": 1,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3843196180,
+          "minute": "24",
+          "bin": 1
+        },
+        {
+          "team": 2966299739,
+          "minute": "31",
+          "bin": 2
+        },
+        {
+          "team": 3843196180,
+          "minute": "68",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3843196180,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 84,
+  "completedMatches": 85,
   "excluded": []
 }
