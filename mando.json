@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-08T16:59:45.060072+00:00",
+  "fetchedAt": "2026-11-08T21:02:21.903117+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -84,13 +84,57 @@
         "goalsAgainst": 3
       },
       "away": {
-        "played": 4,
+        "played": 5,
         "points": 4,
         "wins": 1,
         "draws": 1,
-        "losses": 2,
+        "losses": 3,
         "goalsFor": 3,
+        "goalsAgainst": 6
+      }
+    },
+    {
+      "id": 1752765973,
+      "name": "Nice",
+      "home": {
+        "played": 5,
+        "points": 11,
+        "wins": 3,
+        "draws": 2,
+        "losses": 0,
+        "goalsFor": 10,
+        "goalsAgainst": 5
+      },
+      "away": {
+        "played": 5,
+        "points": 6,
+        "wins": 2,
+        "draws": 0,
+        "losses": 3,
+        "goalsFor": 5,
+        "goalsAgainst": 7
+      }
+    },
+    {
+      "id": 3567689212,
+      "name": "Monaco",
+      "home": {
+        "played": 4,
+        "points": 8,
+        "wins": 2,
+        "draws": 2,
+        "losses": 0,
+        "goalsFor": 7,
         "goalsAgainst": 4
+      },
+      "away": {
+        "played": 6,
+        "points": 8,
+        "wins": 2,
+        "draws": 2,
+        "losses": 2,
+        "goalsFor": 6,
+        "goalsAgainst": 7
       }
     },
     {
@@ -138,18 +182,31 @@
       }
     },
     {
-      "id": 3567689212,
-      "name": "Monaco",
+      "id": 2042223161,
+      "name": "Brest",
       "home": {
-        "played": 4,
+        "played": 5,
+        "points": 7,
+        "wins": 2,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 10,
+        "goalsAgainst": 6
+      },
+      "away": {
+        "played": 5,
         "points": 8,
         "wins": 2,
         "draws": 2,
-        "losses": 0,
-        "goalsFor": 7,
-        "goalsAgainst": 4
-      },
-      "away": {
+        "losses": 1,
+        "goalsFor": 8,
+        "goalsAgainst": 6
+      }
+    },
+    {
+      "id": 1174966874,
+      "name": "Lorient",
+      "home": {
         "played": 5,
         "points": 7,
         "wins": 2,
@@ -157,28 +214,15 @@
         "losses": 2,
         "goalsFor": 5,
         "goalsAgainst": 6
-      }
-    },
-    {
-      "id": 1752765973,
-      "name": "Nice",
-      "home": {
-        "played": 5,
-        "points": 11,
-        "wins": 3,
-        "draws": 2,
-        "losses": 0,
-        "goalsFor": 10,
-        "goalsAgainst": 5
       },
       "away": {
-        "played": 4,
-        "points": 3,
-        "wins": 1,
-        "draws": 0,
-        "losses": 3,
-        "goalsFor": 3,
-        "goalsAgainst": 7
+        "played": 5,
+        "points": 8,
+        "wins": 2,
+        "draws": 2,
+        "losses": 1,
+        "goalsFor": 4,
+        "goalsAgainst": 2
       }
     },
     {
@@ -226,50 +270,6 @@
       }
     },
     {
-      "id": 2042223161,
-      "name": "Brest",
-      "home": {
-        "played": 4,
-        "points": 4,
-        "wins": 1,
-        "draws": 1,
-        "losses": 2,
-        "goalsFor": 8,
-        "goalsAgainst": 6
-      },
-      "away": {
-        "played": 5,
-        "points": 8,
-        "wins": 2,
-        "draws": 2,
-        "losses": 1,
-        "goalsFor": 8,
-        "goalsAgainst": 6
-      }
-    },
-    {
-      "id": 1174966874,
-      "name": "Lorient",
-      "home": {
-        "played": 5,
-        "points": 7,
-        "wins": 2,
-        "draws": 1,
-        "losses": 2,
-        "goalsFor": 5,
-        "goalsAgainst": 6
-      },
-      "away": {
-        "played": 4,
-        "points": 5,
-        "wins": 1,
-        "draws": 2,
-        "losses": 1,
-        "goalsFor": 2,
-        "goalsAgainst": 2
-      }
-    },
-    {
       "id": 726928465,
       "name": "Strasbourg",
       "home": {
@@ -314,16 +314,38 @@
       }
     },
     {
+      "id": 1779709413,
+      "name": "Le Mans",
+      "home": {
+        "played": 5,
+        "points": 6,
+        "wins": 1,
+        "draws": 3,
+        "losses": 1,
+        "goalsFor": 7,
+        "goalsAgainst": 9
+      },
+      "away": {
+        "played": 5,
+        "points": 2,
+        "wins": 0,
+        "draws": 2,
+        "losses": 3,
+        "goalsFor": 5,
+        "goalsAgainst": 10
+      }
+    },
+    {
       "id": 1036545329,
       "name": "Angers",
       "home": {
-        "played": 5,
+        "played": 6,
         "points": 4,
         "wins": 1,
         "draws": 1,
-        "losses": 3,
+        "losses": 4,
         "goalsFor": 5,
-        "goalsAgainst": 9
+        "goalsAgainst": 11
       },
       "away": {
         "played": 4,
@@ -358,38 +380,16 @@
       }
     },
     {
-      "id": 1779709413,
-      "name": "Le Mans",
-      "home": {
-        "played": 4,
-        "points": 5,
-        "wins": 1,
-        "draws": 2,
-        "losses": 1,
-        "goalsFor": 6,
-        "goalsAgainst": 8
-      },
-      "away": {
-        "played": 5,
-        "points": 2,
-        "wins": 0,
-        "draws": 2,
-        "losses": 3,
-        "goalsFor": 5,
-        "goalsAgainst": 10
-      }
-    },
-    {
       "id": 3381639423,
       "name": "Le Havre",
       "home": {
-        "played": 5,
+        "played": 6,
         "points": 1,
         "wins": 0,
         "draws": 1,
-        "losses": 4,
+        "losses": 5,
         "goalsFor": 3,
-        "goalsAgainst": 11
+        "goalsAgainst": 13
       },
       "away": {
         "played": 4,

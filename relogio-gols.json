@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-08T16:59:45.060072+00:00",
+  "fetchedAt": "2026-11-08T21:02:21.903117+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/fra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -38,7 +38,19 @@
       "id": 2402441422,
       "name": "Lyon",
       "sourceId": "167",
-      "completed": 9
+      "completed": 10
+    },
+    {
+      "id": 1752765973,
+      "name": "Nice",
+      "sourceId": "2502",
+      "completed": 10
+    },
+    {
+      "id": 3567689212,
+      "name": "Monaco",
+      "sourceId": "174",
+      "completed": 10
     },
     {
       "id": 2966299739,
@@ -53,16 +65,16 @@
       "completed": 9
     },
     {
-      "id": 3567689212,
-      "name": "Monaco",
-      "sourceId": "174",
-      "completed": 9
+      "id": 2042223161,
+      "name": "Brest",
+      "sourceId": "6997",
+      "completed": 10
     },
     {
-      "id": 1752765973,
-      "name": "Nice",
-      "sourceId": "2502",
-      "completed": 9
+      "id": 1174966874,
+      "name": "Lorient",
+      "sourceId": "273",
+      "completed": 10
     },
     {
       "id": 3070595033,
@@ -77,18 +89,6 @@
       "completed": 10
     },
     {
-      "id": 2042223161,
-      "name": "Brest",
-      "sourceId": "6997",
-      "completed": 9
-    },
-    {
-      "id": 1174966874,
-      "name": "Lorient",
-      "sourceId": "273",
-      "completed": 9
-    },
-    {
       "id": 726928465,
       "name": "Strasbourg",
       "sourceId": "180",
@@ -101,10 +101,16 @@
       "completed": 10
     },
     {
+      "id": 1779709413,
+      "name": "Le Mans",
+      "sourceId": "2697",
+      "completed": 10
+    },
+    {
       "id": 1036545329,
       "name": "Angers",
       "sourceId": "7868",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 2738976337,
@@ -113,16 +119,10 @@
       "completed": 10
     },
     {
-      "id": 1779709413,
-      "name": "Le Mans",
-      "sourceId": "2697",
-      "completed": 9
-    },
-    {
       "id": 3381639423,
       "name": "Le Havre",
       "sourceId": "3236",
-      "completed": 9
+      "completed": 10
     }
   ],
   "matches": [
@@ -2414,8 +2414,96 @@
       ],
       "firstScorer": 3843196180,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401876408",
+      "date": "2026-11-08T16:15Z",
+      "home": 1779709413,
+      "away": 3567689212,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3567689212,
+          "minute": "40",
+          "bin": 2
+        },
+        {
+          "team": 1779709413,
+          "minute": "90",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3567689212,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401876409",
+      "date": "2026-11-08T16:15Z",
+      "home": 3381639423,
+      "away": 1174966874,
+      "hg": 0,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 1174966874,
+          "minute": "18",
+          "bin": 1
+        },
+        {
+          "team": 1174966874,
+          "minute": "90+5",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 1174966874,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401876410",
+      "date": "2026-11-08T16:15Z",
+      "home": 2042223161,
+      "away": 2402441422,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2042223161,
+          "minute": "22",
+          "bin": 1
+        },
+        {
+          "team": 2042223161,
+          "minute": "90+4",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 2042223161,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401876412",
+      "date": "2026-11-08T16:15Z",
+      "home": 1036545329,
+      "away": 1752765973,
+      "hg": 0,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 1752765973,
+          "minute": "2",
+          "bin": 0
+        },
+        {
+          "team": 1752765973,
+          "minute": "78",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 1752765973,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 85,
+  "completedMatches": 89,
   "excluded": []
 }

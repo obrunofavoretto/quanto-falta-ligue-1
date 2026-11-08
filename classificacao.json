@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-08T16:59:45.060072+00:00",
+  "fetchedAt": "2026-11-08T21:02:21.903117+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -41,11 +41,31 @@
       "id": 2402441422,
       "name": "Lyon",
       "points": 17,
-      "played": 9,
+      "played": 10,
       "goalsFor": 15,
-      "goalsAgainst": 7,
+      "goalsAgainst": 9,
       "position": 4,
       "sourceId": "167"
+    },
+    {
+      "id": 1752765973,
+      "name": "Nice",
+      "points": 17,
+      "played": 10,
+      "goalsFor": 15,
+      "goalsAgainst": 12,
+      "position": 5,
+      "sourceId": "2502"
+    },
+    {
+      "id": 3567689212,
+      "name": "Monaco",
+      "points": 16,
+      "played": 10,
+      "goalsFor": 13,
+      "goalsAgainst": 11,
+      "position": 6,
+      "sourceId": "174"
     },
     {
       "id": 2966299739,
@@ -54,7 +74,7 @@
       "played": 10,
       "goalsFor": 21,
       "goalsAgainst": 21,
-      "position": 5,
+      "position": 7,
       "sourceId": "169"
     },
     {
@@ -64,28 +84,28 @@
       "played": 9,
       "goalsFor": 20,
       "goalsAgainst": 13,
-      "position": 6,
+      "position": 8,
       "sourceId": "176"
     },
     {
-      "id": 3567689212,
-      "name": "Monaco",
+      "id": 2042223161,
+      "name": "Brest",
       "points": 15,
-      "played": 9,
-      "goalsFor": 12,
-      "goalsAgainst": 10,
-      "position": 7,
-      "sourceId": "174"
+      "played": 10,
+      "goalsFor": 18,
+      "goalsAgainst": 12,
+      "position": 9,
+      "sourceId": "6997"
     },
     {
-      "id": 1752765973,
-      "name": "Nice",
-      "points": 14,
-      "played": 9,
-      "goalsFor": 13,
-      "goalsAgainst": 12,
-      "position": 8,
-      "sourceId": "2502"
+      "id": 1174966874,
+      "name": "Lorient",
+      "points": 15,
+      "played": 10,
+      "goalsFor": 9,
+      "goalsAgainst": 8,
+      "position": 10,
+      "sourceId": "273"
     },
     {
       "id": 3070595033,
@@ -94,7 +114,7 @@
       "played": 9,
       "goalsFor": 16,
       "goalsAgainst": 13,
-      "position": 9,
+      "position": 11,
       "sourceId": "175"
     },
     {
@@ -104,28 +124,8 @@
       "played": 10,
       "goalsFor": 15,
       "goalsAgainst": 14,
-      "position": 10,
-      "sourceId": "179"
-    },
-    {
-      "id": 2042223161,
-      "name": "Brest",
-      "points": 12,
-      "played": 9,
-      "goalsFor": 16,
-      "goalsAgainst": 12,
-      "position": 11,
-      "sourceId": "6997"
-    },
-    {
-      "id": 1174966874,
-      "name": "Lorient",
-      "points": 12,
-      "played": 9,
-      "goalsFor": 7,
-      "goalsAgainst": 8,
       "position": 12,
-      "sourceId": "273"
+      "sourceId": "179"
     },
     {
       "id": 726928465,
@@ -148,13 +148,23 @@
       "sourceId": "172"
     },
     {
+      "id": 1779709413,
+      "name": "Le Mans",
+      "points": 8,
+      "played": 10,
+      "goalsFor": 12,
+      "goalsAgainst": 19,
+      "position": 15,
+      "sourceId": "2697"
+    },
+    {
       "id": 1036545329,
       "name": "Angers",
       "points": 8,
-      "played": 9,
+      "played": 10,
       "goalsFor": 9,
-      "goalsAgainst": 17,
-      "position": 15,
+      "goalsAgainst": 19,
+      "position": 16,
       "sourceId": "7868"
     },
     {
@@ -164,26 +174,16 @@
       "played": 10,
       "goalsFor": 7,
       "goalsAgainst": 17,
-      "position": 16,
-      "sourceId": "170"
-    },
-    {
-      "id": 1779709413,
-      "name": "Le Mans",
-      "points": 7,
-      "played": 9,
-      "goalsFor": 11,
-      "goalsAgainst": 18,
       "position": 17,
-      "sourceId": "2697"
+      "sourceId": "170"
     },
     {
       "id": 3381639423,
       "name": "Le Havre",
       "points": 2,
-      "played": 9,
+      "played": 10,
       "goalsFor": 9,
-      "goalsAgainst": 20,
+      "goalsAgainst": 22,
       "position": 18,
       "sourceId": "3236"
     }
