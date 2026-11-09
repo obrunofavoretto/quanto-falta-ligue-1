@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-08T21:02:21.903117+00:00",
+  "fetchedAt": "2026-11-09T00:46:01.718212+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -38,13 +38,23 @@
       "sourceId": "6851"
     },
     {
+      "id": 500750372,
+      "name": "Marseille",
+      "points": 18,
+      "played": 10,
+      "goalsFor": 22,
+      "goalsAgainst": 14,
+      "position": 4,
+      "sourceId": "176"
+    },
+    {
       "id": 2402441422,
       "name": "Lyon",
       "points": 17,
       "played": 10,
       "goalsFor": 15,
       "goalsAgainst": 9,
-      "position": 4,
+      "position": 5,
       "sourceId": "167"
     },
     {
@@ -54,7 +64,7 @@
       "played": 10,
       "goalsFor": 15,
       "goalsAgainst": 12,
-      "position": 5,
+      "position": 6,
       "sourceId": "2502"
     },
     {
@@ -64,7 +74,7 @@
       "played": 10,
       "goalsFor": 13,
       "goalsAgainst": 11,
-      "position": 6,
+      "position": 7,
       "sourceId": "174"
     },
     {
@@ -74,18 +84,8 @@
       "played": 10,
       "goalsFor": 21,
       "goalsAgainst": 21,
-      "position": 7,
-      "sourceId": "169"
-    },
-    {
-      "id": 500750372,
-      "name": "Marseille",
-      "points": 15,
-      "played": 9,
-      "goalsFor": 20,
-      "goalsAgainst": 13,
       "position": 8,
-      "sourceId": "176"
+      "sourceId": "169"
     },
     {
       "id": 2042223161,
@@ -111,9 +111,9 @@
       "id": 3070595033,
       "name": "Lens",
       "points": 13,
-      "played": 9,
-      "goalsFor": 16,
-      "goalsAgainst": 13,
+      "played": 10,
+      "goalsFor": 17,
+      "goalsAgainst": 15,
       "position": 11,
       "sourceId": "175"
     },

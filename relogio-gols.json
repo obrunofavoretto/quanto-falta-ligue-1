@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-08T21:02:21.903117+00:00",
+  "fetchedAt": "2026-11-09T00:46:01.718212+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/fra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -35,6 +35,12 @@
       "completed": 10
     },
     {
+      "id": 500750372,
+      "name": "Marseille",
+      "sourceId": "176",
+      "completed": 10
+    },
+    {
       "id": 2402441422,
       "name": "Lyon",
       "sourceId": "167",
@@ -59,12 +65,6 @@
       "completed": 10
     },
     {
-      "id": 500750372,
-      "name": "Marseille",
-      "sourceId": "176",
-      "completed": 9
-    },
-    {
       "id": 2042223161,
       "name": "Brest",
       "sourceId": "6997",
@@ -80,7 +80,7 @@
       "id": 3070595033,
       "name": "Lens",
       "sourceId": "175",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 82960301,
@@ -2502,8 +2502,35 @@
       ],
       "firstScorer": 1752765973,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401876404",
+      "date": "2026-11-08T19:45Z",
+      "home": 3070595033,
+      "away": 500750372,
+      "hg": 1,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 500750372,
+          "minute": "2",
+          "bin": 0
+        },
+        {
+          "team": 3070595033,
+          "minute": "20",
+          "bin": 1
+        },
+        {
+          "team": 500750372,
+          "minute": "82",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 500750372,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 89,
+  "completedMatches": 90,
   "excluded": []
 }

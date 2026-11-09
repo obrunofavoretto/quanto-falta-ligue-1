@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-08T21:02:21.903117+00:00",
+  "fetchedAt": "2026-11-09T00:46:01.718212+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -69,6 +69,28 @@
         "losses": 2,
         "goalsFor": 5,
         "goalsAgainst": 5
+      }
+    },
+    {
+      "id": 500750372,
+      "name": "Marseille",
+      "home": {
+        "played": 5,
+        "points": 9,
+        "wins": 3,
+        "draws": 0,
+        "losses": 2,
+        "goalsFor": 13,
+        "goalsAgainst": 8
+      },
+      "away": {
+        "played": 5,
+        "points": 9,
+        "wins": 3,
+        "draws": 0,
+        "losses": 2,
+        "goalsFor": 9,
+        "goalsAgainst": 6
       }
     },
     {
@@ -160,28 +182,6 @@
       }
     },
     {
-      "id": 500750372,
-      "name": "Marseille",
-      "home": {
-        "played": 5,
-        "points": 9,
-        "wins": 3,
-        "draws": 0,
-        "losses": 2,
-        "goalsFor": 13,
-        "goalsAgainst": 8
-      },
-      "away": {
-        "played": 4,
-        "points": 6,
-        "wins": 2,
-        "draws": 0,
-        "losses": 2,
-        "goalsFor": 7,
-        "goalsAgainst": 5
-      }
-    },
-    {
       "id": 2042223161,
       "name": "Brest",
       "home": {
@@ -229,13 +229,13 @@
       "id": 3070595033,
       "name": "Lens",
       "home": {
-        "played": 4,
+        "played": 5,
         "points": 9,
         "wins": 3,
         "draws": 0,
-        "losses": 1,
-        "goalsFor": 9,
-        "goalsAgainst": 5
+        "losses": 2,
+        "goalsFor": 10,
+        "goalsAgainst": 7
       },
       "away": {
         "played": 5,
