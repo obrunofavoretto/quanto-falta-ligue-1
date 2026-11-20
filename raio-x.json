@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-20T11:18:07.785037+00:00",
+  "fetchedAt": "2026-11-20T19:57:44.157867+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -4236,9 +4236,9 @@
       "id": "2738976337-3381639423",
       "home": 2738976337,
       "away": 3381639423,
-      "date": 1795203900000,
+      "date": null,
       "round": "Rodada a confirmar",
-      "status": "scheduled"
+      "status": "pending"
     },
     {
       "id": "3381639423-3843196180",
