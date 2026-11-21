@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-20T19:57:44.157867+00:00",
+  "fetchedAt": "2026-11-21T01:21:06.809282+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/fra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -89,6 +89,12 @@
       "completed": 10
     },
     {
+      "id": 2738976337,
+      "name": "Troyes",
+      "sourceId": "170",
+      "completed": 11
+    },
+    {
       "id": 726928465,
       "name": "Strasbourg",
       "sourceId": "180",
@@ -113,16 +119,10 @@
       "completed": 10
     },
     {
-      "id": 2738976337,
-      "name": "Troyes",
-      "sourceId": "170",
-      "completed": 10
-    },
-    {
       "id": 3381639423,
       "name": "Le Havre",
       "sourceId": "3236",
-      "completed": 10
+      "completed": 11
     }
   ],
   "matches": [
@@ -2529,8 +2529,40 @@
       ],
       "firstScorer": 500750372,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401876395",
+      "date": "2026-11-20T19:45Z",
+      "home": 2738976337,
+      "away": 3381639423,
+      "hg": 3,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3381639423,
+          "minute": "3",
+          "bin": 0
+        },
+        {
+          "team": 2738976337,
+          "minute": "19",
+          "bin": 1
+        },
+        {
+          "team": 2738976337,
+          "minute": "69",
+          "bin": 5
+        },
+        {
+          "team": 2738976337,
+          "minute": "90+8",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 3381639423,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 90,
+  "completedMatches": 91,
   "excluded": []
 }
