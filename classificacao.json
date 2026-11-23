@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-22T18:25:54.110797+00:00",
+  "fetchedAt": "2026-11-23T00:10:25.060293+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -50,10 +50,10 @@
     {
       "id": 500750372,
       "name": "Marseille",
-      "points": 19,
+      "points": 18,
       "played": 11,
-      "goalsFor": 23,
-      "goalsAgainst": 15,
+      "goalsFor": 24,
+      "goalsAgainst": 17,
       "position": 5,
       "sourceId": "176"
     },
@@ -128,14 +128,14 @@
       "sourceId": "179"
     },
     {
-      "id": 1579487238,
-      "name": "Auxerre",
-      "points": 12,
-      "played": 12,
+      "id": 1779709413,
+      "name": "Le Mans",
+      "points": 11,
+      "played": 11,
       "goalsFor": 15,
-      "goalsAgainst": 26,
+      "goalsAgainst": 21,
       "position": 13,
-      "sourceId": "172"
+      "sourceId": "2697"
     },
     {
       "id": 2738976337,
@@ -148,24 +148,24 @@
       "sourceId": "170"
     },
     {
+      "id": 1579487238,
+      "name": "Auxerre",
+      "points": 11,
+      "played": 11,
+      "goalsFor": 14,
+      "goalsAgainst": 25,
+      "position": 15,
+      "sourceId": "172"
+    },
+    {
       "id": 726928465,
       "name": "Strasbourg",
       "points": 10,
       "played": 11,
       "goalsFor": 18,
       "goalsAgainst": 23,
-      "position": 15,
-      "sourceId": "180"
-    },
-    {
-      "id": 1779709413,
-      "name": "Le Mans",
-      "points": 8,
-      "played": 10,
-      "goalsFor": 12,
-      "goalsAgainst": 19,
       "position": 16,
-      "sourceId": "2697"
+      "sourceId": "180"
     },
     {
       "id": 1036545329,
