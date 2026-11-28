@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-27T18:07:21.977469+00:00",
+  "fetchedAt": "2026-11-28T01:51:53.476747+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -40,13 +40,35 @@
         "goalsAgainst": 5
       },
       "away": {
-        "played": 5,
+        "played": 6,
         "points": 7,
         "wins": 2,
         "draws": 1,
-        "losses": 2,
+        "losses": 3,
         "goalsFor": 5,
-        "goalsAgainst": 5
+        "goalsAgainst": 6
+      }
+    },
+    {
+      "id": 2042223161,
+      "name": "Brest",
+      "home": {
+        "played": 6,
+        "points": 10,
+        "wins": 3,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 11,
+        "goalsAgainst": 6
+      },
+      "away": {
+        "played": 6,
+        "points": 11,
+        "wins": 3,
+        "draws": 2,
+        "losses": 1,
+        "goalsFor": 9,
+        "goalsAgainst": 6
       }
     },
     {
@@ -111,28 +133,6 @@
         "wins": 3,
         "draws": 0,
         "losses": 2,
-        "goalsFor": 9,
-        "goalsAgainst": 6
-      }
-    },
-    {
-      "id": 2042223161,
-      "name": "Brest",
-      "home": {
-        "played": 5,
-        "points": 7,
-        "wins": 2,
-        "draws": 1,
-        "losses": 2,
-        "goalsFor": 10,
-        "goalsAgainst": 6
-      },
-      "away": {
-        "played": 6,
-        "points": 11,
-        "wins": 3,
-        "draws": 2,
-        "losses": 1,
         "goalsFor": 9,
         "goalsAgainst": 6
       }

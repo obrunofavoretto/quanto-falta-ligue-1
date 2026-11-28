@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-27T18:07:21.977469+00:00",
+  "fetchedAt": "2026-11-28T01:51:53.476747+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -21,11 +21,21 @@
       "id": 2559659102,
       "name": "Paris FC",
       "points": 23,
-      "played": 11,
+      "played": 12,
       "goalsFor": 21,
-      "goalsAgainst": 10,
+      "goalsAgainst": 11,
       "position": 2,
       "sourceId": "6851"
+    },
+    {
+      "id": 2042223161,
+      "name": "Brest",
+      "points": 21,
+      "played": 12,
+      "goalsFor": 20,
+      "goalsAgainst": 12,
+      "position": 3,
+      "sourceId": "6997"
     },
     {
       "id": 3843196180,
@@ -34,7 +44,7 @@
       "played": 11,
       "goalsFor": 14,
       "goalsAgainst": 8,
-      "position": 3,
+      "position": 4,
       "sourceId": "166"
     },
     {
@@ -44,7 +54,7 @@
       "played": 11,
       "goalsFor": 16,
       "goalsAgainst": 9,
-      "position": 4,
+      "position": 5,
       "sourceId": "167"
     },
     {
@@ -54,18 +64,8 @@
       "played": 11,
       "goalsFor": 24,
       "goalsAgainst": 17,
-      "position": 5,
-      "sourceId": "176"
-    },
-    {
-      "id": 2042223161,
-      "name": "Brest",
-      "points": 18,
-      "played": 11,
-      "goalsFor": 19,
-      "goalsAgainst": 12,
       "position": 6,
-      "sourceId": "6997"
+      "sourceId": "176"
     },
     {
       "id": 1752765973,

@@ -1,7 +1,7 @@
 {
   "league": "fra-ligue-1",
   "season": 2026,
-  "fetchedAt": "2026-11-27T18:07:21.977469+00:00",
+  "fetchedAt": "2026-11-28T01:51:53.476747+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/fra.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -26,7 +26,13 @@
       "id": 2559659102,
       "name": "Paris FC",
       "sourceId": "6851",
-      "completed": 11
+      "completed": 12
+    },
+    {
+      "id": 2042223161,
+      "name": "Brest",
+      "sourceId": "6997",
+      "completed": 12
     },
     {
       "id": 3843196180,
@@ -44,12 +50,6 @@
       "id": 500750372,
       "name": "Marseille",
       "sourceId": "176",
-      "completed": 11
-    },
-    {
-      "id": 2042223161,
-      "name": "Brest",
-      "sourceId": "6997",
       "completed": 11
     },
     {
@@ -2767,8 +2767,25 @@
       ],
       "firstScorer": 500750372,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401876392",
+      "date": "2026-11-27T19:45Z",
+      "home": 2042223161,
+      "away": 2559659102,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2042223161,
+          "minute": "21",
+          "bin": 1
+        }
+      ],
+      "firstScorer": 2042223161,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 99,
+  "completedMatches": 100,
   "excluded": []
 }
